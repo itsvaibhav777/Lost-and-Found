@@ -92,7 +92,7 @@ GET /api/items
 }
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/lost-found-project.git
+git clone https://github.com/itsvaibhav777/lost-found-project.git
 2️⃣ Navigate to Project Folder
 cd lost-found-project
 3️⃣ Install Dependencies
