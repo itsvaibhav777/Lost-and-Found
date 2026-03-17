@@ -127,6 +127,24 @@ to manage lost and found items efficiently.
 
 📱 Mobile-friendly interface
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](assets/home.png)
+
+### Report Lost Item
+
+![Report Lost](assets/report-lost.png)
+
+### Report Found Item
+
+![Report Found](assets/report-found.png)
+
+### Item List
+
+![Items](assets/items.png)
+
 🤝 Contributing
 
 Contributions are welcome!
